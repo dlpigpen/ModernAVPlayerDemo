@@ -1,0 +1,18 @@
+PODS:
+  - ModernAVPlayer (1.5.0):
+    - ModernAVPlayer/Core (= 1.5.0)
+  - ModernAVPlayer/Core (1.5.0)
+
+DEPENDENCIES:
+  - ModernAVPlayer
+
+SPEC REPOS:
+  trunk:
+    - ModernAVPlayer
+
+SPEC CHECKSUMS:
+  ModernAVPlayer: ac33fa10082ff721e0478c55006b89998f5a26cd
+
+PODFILE CHECKSUM: 774f0f77a90a24ec82a1af9c0d4a408b12b65d0e
+
+COCOAPODS: 1.9.0.beta.3

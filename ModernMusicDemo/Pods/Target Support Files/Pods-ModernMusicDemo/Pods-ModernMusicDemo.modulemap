@@ -1,0 +1,6 @@
+framework module Pods_ModernMusicDemo {
+  umbrella header "Pods-ModernMusicDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
